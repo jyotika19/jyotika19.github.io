@@ -1,0 +1,6 @@
+// Keep the accent pink when the dark theme is active.
+:root,
+[data-theme="dark"] {
+  --global-theme-color: #e83e8c;
+  --global-hover-color: #c2185b;
+}
